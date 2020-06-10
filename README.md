@@ -1,1 +1,4 @@
 # Hacintosh_EFI_Z390_5700
+- MSI Z390 TOMHAWK
+- Intel 9600K
+- Radeon RX 5700 8 GB
